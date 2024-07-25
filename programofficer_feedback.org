@@ -1,0 +1,37 @@
+#+title: Programofficer Feedback
+#+author: Andrew Sugarman
+
+* General
+- cv was strong
+- mentoring team was good
+** Reviewer 1
+- need an FA pub
+- good collaborators, but must elaborate on roles
+  - Dr. Puri specifically emphasized that the sponsor and co-sponsor roles must be more clearly defined and I should enumerate who will teach me what
+    - she emphasized that I have a great score and should resubmit
+  - When preparing for resubmission, put title/expected date + journal of prepared/submitted manuscripts
+**** TODO Clearly define roles of sponsors
+**** TODO clearly elaborate on roles of collaborators
+**** TODO Dr. Puri said to make it a point to emphasize that I am the one performing the analysis of images
+**** TODO Edit your biosketch and state that at present x is what you wanna do but as you get through training you may diverge
+- must back this up with reason and say you are still in the training process (have not completed third year)
+** Reviewer 2
+Stated that the aims were interdependent
+- improve discussion of potential pitfalls and alternative strategies
+- Dr. puri: "great score hopefully next time"
+** Reviewer 3:
+- make sure there are available biosketches for letter writers + collaborators
+- make sure the figures look pretty for resubmission
+-
+** Overall:
+- This is a great project
+- talk to your sponsor and put together a one page intro that addresses all the critiques politely and clearly
+  - next meeting will evaluate how well this is written
+- if you are training any students be sure to include this
+- emphasize rigor, reproducibility, and unbiased ness
+- indicate intended submission date and journal of any manuscripts
+- not guaranteed that you will get the same reviewers
+- make sure aims are not interdependent
+  - if aim 1 fails what will you do?
+    - whatever you propose, the primary sponsor needs to have a major role in the training and the biosketches need updating
+      - indicate the other md/phd + phd students the sponsors have mentored

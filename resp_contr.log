@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  24 JUL 2024 23:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  25 JUL 2024 13:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -381,16 +381,16 @@ No file resp_contr.bbl.
 Here is how much of TeX's memory you used:
  6235 strings out of 480247
  98222 string characters out of 5896151
- 401103 words of memory out of 5000000
+ 421103 words of memory out of 5000000
  24120 multiletter control sequences out of 15000+600000
  473664 words of font info for 35 fonts, out of 8000000 for 9000
  17 hyphenation exceptions out of 8191
- 70i,5n,77p,1512b,126s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,5n,77p,1345b,126s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-
 dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/helvetic/uhvr8a.pfb>
-Output written on resp_contr.pdf (1 page, 21874 bytes).
+Output written on resp_contr.pdf (1 page, 25533 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
