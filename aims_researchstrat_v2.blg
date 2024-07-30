@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: aims_researchstrat_v2.aux
+The style file: unsrt.bst
+Database file #1: sugarman_f30.bib
+Warning--I didn't find a database entry for "google_neuroglancer_2023"
+You've used 35 entries,
+            1791 wiz_defined-function locations,
+            663 strings with 16147 characters,
+and the built_in function-call counts, 11195 in all, are:
+= -- 761
+> -- 1032
+< -- 1
++ -- 357
+- -- 322
+* -- 1145
+:= -- 2014
+add.period$ -- 121
+call.type$ -- 35
+change.case$ -- 35
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 324
+empty$ -- 778
+format.name$ -- 322
+if$ -- 2227
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 35
+newline$ -- 194
+num.names$ -- 35
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 123
+stack$ -- 0
+substring$ -- 640
+swap$ -- 48
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 86
+width$ -- 37
+write$ -- 418
+(There was 1 warning)

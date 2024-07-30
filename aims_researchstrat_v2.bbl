@@ -1,0 +1,291 @@
+\begin{thebibliography}{10}
+
+\bibitem{primakov_automated_2022}
+Sergey~P. Primakov, Abdalla Ibrahim, Janita~E. van Timmeren, Guangyao Wu,
+  Simon~A. Keek, Manon Beuque, Renée W.~Y. Granzier, Elizaveta Lavrova,
+  Madeleine Scrivener, Sebastian Sanduleanu, Esma Kayan, Iva Halilaj, Anouk
+  Lenaers, Jianlin Wu, René Monshouwer, Xavier Geets, Hester~A. Gietema, Lizza
+  E.~L. Hendriks, Olivier Morin, Arthur Jochems, Henry~C. Woodruff, and
+  Philippe Lambin.
+\newblock Automated detection and segmentation of non-small cell lung cancer
+  computed tomography images.
+\newblock {\em Nature Communications}, 13(1):3423, June 2022.
+\newblock Number: 1 Publisher: Nature Publishing Group.
+
+\bibitem{katiyar_quantification_2023}
+Prateek Katiyar, Johannes Schwenck, Leonie Frauenfeld, Mathew~R. Divine,
+  Vaibhav Agrawal, Ursula Kohlhofer, Sergios Gatidis, Roland Kontermann, Alfred
+  Königsrainer, Leticia Quintanilla-Martinez, Christian la~Fougère, Bernhard
+  Schölkopf, Bernd~J. Pichler, and Jonathan~A. Disselhorst.
+\newblock Quantification of intratumoural heterogeneity in mice and patients
+  via machine-learning models trained on {PET}–{MRI} data.
+\newblock {\em Nature Biomedical Engineering}, 7(8):1014--1027, August 2023.
+\newblock Number: 8 Publisher: Nature Publishing Group.
+
+\bibitem{lawson_persistent_2019}
+Peter Lawson, Andrew~B. Sholl, J.~Quincy Brown, Brittany~Terese Fasy, and
+  Carola Wenk.
+\newblock Persistent {Homology} for the {Quantitative} {Evaluation} of
+  {Architectural} {Features} in {Prostate} {Cancer} {Histology}.
+\newblock {\em Scientific Reports}, 9:1139, February 2019.
+
+\bibitem{crawford_predicting_2020}
+Lorin Crawford, Anthea Monod, Andrew~X. Chen, Sayan Mukherjee, and Raúl
+  Rabadán.
+\newblock Predicting {Clinical} {Outcomes} in {Glioblastoma}: {An}
+  {Application} of {Topological} and {Functional} {Data} {Analysis}.
+\newblock {\em Journal of the American Statistical Association},
+  115(531):1139--1150, July 2020.
+\newblock Publisher: Taylor \& Francis \_eprint:
+  https://doi.org/10.1080/01621459.2019.1671198.
+
+\bibitem{gordetsky_grading_2016}
+Jennifer Gordetsky and Jonathan Epstein.
+\newblock Grading of prostatic adenocarcinoma: current state and prognostic
+  implications.
+\newblock {\em Diagnostic Pathology}, 11:25, March 2016.
+
+\bibitem{epstein_prostate_2018}
+Jonathan~I. Epstein.
+\newblock Prostate cancer grading: a decade after the 2005 modified system.
+\newblock {\em Modern Pathology}, 31(1):47--63, January 2018.
+\newblock Number: 1 Publisher: Nature Publishing Group.
+
+\bibitem{liu_harnessing_2021}
+Jonathan T.~C. Liu, Adam~K. Glaser, Kaustav Bera, Lawrence~D. True, Nicholas~P.
+  Reder, Kevin~W. Eliceiri, and Anant Madabhushi.
+\newblock Harnessing non-destructive {3D} pathology.
+\newblock {\em Nature Biomedical Engineering}, 5(3):203--218, March 2021.
+\newblock Number: 3 Publisher: Nature Publishing Group.
+
+\bibitem{ozkan_interobserver_2016}
+Tayyar~A. Ozkan, Ahmet~T. Eruyar, Oguz~O. Cebeci, Omur Memik, Levent Ozcan, and
+  Ibrahim Kuskonmaz.
+\newblock Interobserver variability in {Gleason} histological grading of
+  prostate cancer.
+\newblock {\em Scandinavian Journal of Urology}, 50(6):420--424, December 2016.
+
+\bibitem{xie_prostate_2022}
+Weisi Xie, Nicholas~P. Reder, Can Koyuncu, Patrick Leo, Sarah Hawley, Hongyi
+  Huang, Chenyi Mao, Nadia Postupna, Soyoung Kang, Robert Serafin, Gan Gao,
+  Qinghua Han, Kevin~W. Bishop, Lindsey~A. Barner, Pingfu Fu, Jonathan~L.
+  Wright, C.~Dirk Keene, Joshua~C. Vaughan, Andrew Janowczyk, Adam~K. Glaser,
+  Anant Madabhushi, Lawrence~D. True, and Jonathan T.~C. Liu.
+\newblock Prostate {Cancer} {Risk} {Stratification} via {Nondestructive} {3D}
+  {Pathology} with {Deep} {Learning}-{Assisted} {Gland} {Analysis}.
+\newblock {\em Cancer Research}, 82(2):334--345, January 2022.
+
+\bibitem{koyuncu_visual_2023}
+Can Koyuncu, Andrew Janowczyk, Xavier Farre, Tilak Pathak, Tuomas Mirtti,
+  Pedro~L. Fernandez, Laura Pons, Nicholas~P. Reder, Robert Serafin, Sarah~Sl
+  Chow, Vidya~S. Viswanathan, Adam~K. Glaser, Lawrence~D. True, Jonathan~Tc
+  Liu, and Anant Madabhushi.
+\newblock Visual assessment of {2D} levels within {3D} pathology datasets of
+  prostate needle biopsies reveals substantial spatial heterogeneity.
+\newblock {\em Laboratory Investigation; a Journal of Technical Methods and
+  Pathology}, page 100265, October 2023.
+
+\bibitem{serafin_nondestructive_2023}
+Robert Serafin, Can Koyuncu, Weisi Xie, Hongyi Huang, Adam~K. Glaser,
+  Nicholas~P. Reder, Andrew Janowczyk, Lawrence~D. True, Anant Madabhushi, and
+  Jonathan~Tc Liu.
+\newblock Nondestructive {3D} pathology with analysis of nuclear features for
+  prostate cancer risk assessment.
+\newblock {\em The Journal of Pathology}, 260(4):390--401, August 2023.
+
+\bibitem{flach_significant_2021}
+Rachel~N. Flach, Peter-Paul~M. Willemse, Britt B.~M. Suelmann, Ivette A.~G.
+  Deckers, Trudy~N. Jonges, Carmen van Dooijeweert, Paul~J. van Diest, and
+  Richard~P. Meijer.
+\newblock Significant {Inter}- and {Intralaboratory} {Variation} in {Gleason}
+  {Grading} of {Prostate} {Cancer}: {A} {Nationwide} {Study} of 35,258
+  {Patients} in {The} {Netherlands}.
+\newblock {\em Cancers}, 13(21):5378, October 2021.
+
+\bibitem{albers_x-ray-based_2018}
+J.~Albers, S.~Pacilé, M.~A. Markus, M.~Wiart, G.~Vande~Velde, G.~Tromba, and
+  C.~Dullin.
+\newblock X-ray-{Based} {3D} {Virtual} {Histology}-{Adding} the {Next}
+  {Dimension} to {Histological} {Analysis}.
+\newblock {\em Molecular Imaging and Biology}, 20(5):732--741, October 2018.
+
+\bibitem{katsamenis_x-ray_2019}
+Orestis~L. Katsamenis, Michael Olding, Jane~A. Warner, David~S. Chatelet,
+  Mark~G. Jones, Giacomo Sgalla, Bennie Smit, Oliver~J. Larkin, Ian Haig, Luca
+  Richeldi, Ian Sinclair, Peter~M. Lackie, and Philipp Schneider.
+\newblock X-ray {Micro}-{Computed} {Tomography} for {Nondestructive}
+  {Three}-{Dimensional} ({3D}) {X}-ray {Histology}.
+\newblock {\em The American Journal of Pathology}, 189(8):1608--1620, August
+  2019.
+
+\bibitem{topperwien_contrast_2019}
+Mareike Töpperwien, Andrea Markus, Frauke Alves, and Tim Salditt.
+\newblock Contrast enhancement for visualizing neuronal cytoarchitecture by
+  propagation-based x-ray phase-contrast tomography.
+\newblock {\em NeuroImage}, 199:70--80, October 2019.
+
+\bibitem{pinkert-leetsch_three-dimensional_2023}
+Diana Pinkert-Leetsch, Jasper Frohn, Philipp Ströbel, Frauke Alves, Tim
+  Salditt, and Jeannine Missbach-Guentner.
+\newblock Three-dimensional analysis of human pancreatic cancer specimens by
+  phase-contrast based {X}-ray tomography – the next dimension of diagnosis.
+\newblock {\em Cancer Imaging}, 23(1):43, May 2023.
+
+\bibitem{frost_3d_2023}
+Jakob Frost, Bernhard Schmitzer, Mareike Töpperwien, Marina Eckermann, Jonas
+  Franz, Christine Stadelmann, and Tim Salditt.
+\newblock 3d {Virtual} {Histology} {Reveals} {Pathological} {Alterations} of
+  {Cerebellar} {Granule} {Cells} in {Multiple} {Sclerosis}.
+\newblock {\em Neuroscience}, 520:18--38, June 2023.
+
+\bibitem{yakovlev_wide-field_2022}
+M.~A. Yakovlev, D.~J. Vanselow, M.~S. Ngu, C.~R. Zaino, S.~R. Katz, Y.~Ding,
+  D.~Parkinson, S.~Y. Wang, K.~C. Ang, P.~La~Riviere, and K.~C. Cheng.
+\newblock A wide-field micro-computed tomography detector: micron resolution at
+  half-centimetre scale.
+\newblock {\em Journal of Synchrotron Radiation}, 29(2):505--514, March 2022.
+\newblock Number: 2 Publisher: International Union of Crystallography.
+
+\bibitem{kumar_robbins_2017}
+et~al. Kumar, Vinay.
+\newblock {\em Robbins {Basic} {Pathology}}.
+\newblock Elsevier - Health Sciences Division, 10th edition, 2017.
+
+\bibitem{glaser_hybrid_2022}
+Adam~K. Glaser, Kevin~W. Bishop, Lindsey~A. Barner, Etsuo~A. Susaki, Shimpei~I.
+  Kubota, Gan Gao, Robert~B. Serafin, Pooja Balaram, Emily Turschak, Philip~R.
+  Nicovich, Hoyin Lai, Luciano A.~G. Lucas, Yating Yi, Eva~K. Nichols, Hongyi
+  Huang, Nicholas~P. Reder, Jasmine~J. Wilson, Ramya Sivakumar, Elya Shamskhou,
+  Caleb~R. Stoltzfus, Xing Wei, Andrew~K. Hempton, Marko Pende, Prayag
+  Murawala, Hans-Ulrich Dodt, Takato Imaizumi, Jay Shendure, Brian~J. Beliveau,
+  Michael~Y. Gerner, Li~Xin, Hu~Zhao, Lawrence~D. True, R.~Clay Reid, Jayaram
+  Chandrashekar, Hiroki~R. Ueda, Karel Svoboda, and Jonathan T.~C. Liu.
+\newblock A hybrid open-top light-sheet microscope for versatile multi-scale
+  imaging of cleared tissues.
+\newblock {\em Nature Methods}, 19(5):613--619, May 2022.
+\newblock Number: 5 Publisher: Nature Publishing Group.
+
+\bibitem{cheng_whole-animal_2011}
+Keith~C. Cheng, Xuying Xin, Darin~P. Clark, and Patrick La~Riviere.
+\newblock Whole-animal imaging, gene function, and the {Zebrafish} {Phenome}
+  {Project}.
+\newblock {\em Current Opinion in Genetics \& Development}, 21(5):620--629,
+  October 2011.
+
+\bibitem{ding_computational_2019}
+Yifu Ding, Daniel~J Vanselow, Maksim~A Yakovlev, Spencer~R Katz, Alex~Y Lin,
+  Darin~P Clark, Phillip Vargas, Xuying Xin, Jean~E Copper, Victor~A Canfield,
+  Khai~C Ang, Yuxin Wang, Xianghui Xiao, Francesco De~Carlo, Damian~B van
+  Rossum, Patrick La~Riviere, and Keith~C Cheng.
+\newblock Computational {3D} histological phenotyping of whole zebrafish by
+  {X}-ray histotomography.
+\newblock {\em eLife}, 8:e44898, May 2019.
+\newblock Publisher: eLife Sciences Publications, Ltd.
+
+\bibitem{topperwien_correlative_2020}
+Mareike Töpperwien, Franziska van~der Meer, Christine Stadelmann, and Tim
+  Salditt.
+\newblock Correlative x-ray phase-contrast tomography and histology of human
+  brain tissue affected by {Alzheimer}'s disease.
+\newblock {\em NeuroImage}, 210:116523, April 2020.
+
+\bibitem{katz_whole-organism_2021}
+Spencer~R Katz, Maksim~A Yakovlev, Daniel~J Vanselow, Yifu Ding, Alex~Y Lin,
+  Dilworth~Y Parkinson, Yuxin Wang, Victor~A Canfield, Khai~C Ang, and Keith~C
+  Cheng.
+\newblock Whole-organism {3D} quantitative characterization of zebrafish
+  melanin by silver deposition micro-{CT}.
+\newblock {\em eLife}, 10:e68920, September 2021.
+\newblock Publisher: eLife Sciences Publications, Ltd.
+
+\bibitem{busse_three-dimensional_2018}
+Madleen Busse, Mark Müller, Melanie~A. Kimm, Simone Ferstl, Sebastian Allner,
+  Klaus Achterhold, Julia Herzen, and Franz Pfeiffer.
+\newblock Three-dimensional virtual histology enabled through
+  cytoplasm-specific {X}-ray stain for microscopic and nanoscopic computed
+  tomography.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  115(10):2293--2298, March 2018.
+\newblock Publisher: Proceedings of the National Academy of Sciences.
+
+\bibitem{metscher_microct_2009}
+Brian~D. Metscher.
+\newblock {MicroCT} for comparative morphology: simple staining methods allow
+  high-contrast {3D} imaging of diverse non-mineralized animal tissues.
+\newblock {\em BMC Physiology}, 9(1):11, June 2009.
+
+\bibitem{frohn_3d_2020}
+Jasper Frohn, Diana Pinkert-Leetsch, Jeannine Missbach-Güntner, Marius
+  Reichardt, Markus Osterhoff, Frauke Alves, and Tim Salditt.
+\newblock {3D} virtual histology of human pancreatic tissue by multiscale
+  phase-contrast {X}-ray tomography.
+\newblock {\em Journal of Synchrotron Radiation}, 27(Pt 6):1707--1719, November
+  2020.
+
+\bibitem{mohan_non-linear_2023}
+K.~Aditya Mohan, Jean-Baptiste Forien, Venkatesh Sridhar, Jefferson~A. Cuadra,
+  and Dilworth Parkinson.
+\newblock Non-{Linear} {Phase}-{Retrieval} {Algorithms} for {X}-ray
+  {Propagation}-{Based} {Phase}-{Contrast} {Tomography}, April 2023.
+\newblock arXiv:2305.00334 [eess].
+
+\bibitem{polikarpov_towards_2023}
+M.~Polikarpov, J.~Vila-Comamala, Z.~Wang, A.~Pereira, S.~van Gogh, C.~Gasser,
+  K.~Jefimovs, L.~Romano, Z.~Varga, K.~Lång, M.~Schmeltz, S.~Tessarini,
+  M.~Rawlik, E.~Jermann, S.~Lewis, W.~Yun, and M.~Stampanoni.
+\newblock Towards virtual histology with {X}-ray grating interferometry.
+\newblock {\em Scientific Reports}, 13(1):9049, June 2023.
+\newblock Number: 1 Publisher: Nature Publishing Group.
+
+\bibitem{riedel_comparing_2023}
+Mirko Riedel, Kirsten Taphorn, Alex Gustschin, Madleen Busse, Joerg~U. Hammel,
+  Julian Moosmann, Felix Beckmann, Florian Fischer, Pierre Thibault, and Julia
+  Herzen.
+\newblock Comparing x-ray phase-contrast imaging using a {Talbot} array
+  illuminator to propagation-based imaging for non-homogeneous biomedical
+  samples.
+\newblock {\em Scientific Reports}, 13(1):6996, April 2023.
+\newblock Number: 1 Publisher: Nature Publishing Group.
+
+\bibitem{norvik_synchrotron-based_2020}
+Christian Norvik, Christian~Karl Westöö, Niccolò Peruzzi, Goran Lovric,
+  Oscar van~der Have, Rajmund Mokso, Ida Jeremiasen, Hans Brunnström, Csaba
+  Galambos, Martin Bech, and Karin Tran-Lundmark.
+\newblock Synchrotron-based phase-contrast micro-{CT} as a tool for
+  understanding pulmonary vascular pathobiology and the 3-{D} microanatomy of
+  alveolar capillary dysplasia.
+\newblock {\em American Journal of Physiology-Lung Cellular and Molecular
+  Physiology}, 318(1):L65--L75, January 2020.
+\newblock Publisher: American Physiological Society.
+
+\bibitem{rebello_prostate_2021}
+Richard~J. Rebello, Christoph Oing, Karen~E. Knudsen, Stacy Loeb, David~C.
+  Johnson, Robert~E. Reiter, Silke Gillessen, Theodorus Van~der Kwast, and
+  Robert~G. Bristow.
+\newblock Prostate cancer.
+\newblock {\em Nature Reviews Disease Primers}, 7(1):1--27, February 2021.
+\newblock Number: 1 Publisher: Nature Publishing Group.
+
+\bibitem{wasserman_topological_2018}
+Larry Wasserman.
+\newblock Topological {Data} {Analysis}.
+\newblock {\em Annual Review of Statistics and Its Application}, 5(1):501--532,
+  2018.
+\newblock \_eprint: https://doi.org/10.1146/annurev-statistics-031017-100045.
+
+\bibitem{chazal_introduction_2021}
+Frédéric Chazal and Bertrand Michel.
+\newblock An {Introduction} to {Topological} {Data} {Analysis}: {Fundamental}
+  and {Practical} {Aspects} for {Data} {Scientists}.
+\newblock {\em Frontiers in Artificial Intelligence}, 4:667963, September 2021.
+
+\bibitem{yakovlev_quantitative_2023}
+Maksim~A. Yakovlev, Ke~Liang, Carolyn~R. Zaino, Daniel~J. Vanselow, Andrew~L.
+  Sugarman, Alex~Y. Lin, Patrick J.~La Riviere, Yuxi Zheng, Justin~D.
+  Silverman, John~C. Leichty, Sharon~X. Huang, and Keith~C. Cheng.
+\newblock Quantitative {Geometric} {Modeling} of {Blood} {Cells} from {X}-ray
+  {Histotomograms} of {Whole} {Zebrafish} {Larvae}.
+\newblock {\em eLife}, 12, October 2023.
+\newblock Publisher: eLife Sciences Publications Limited.
+
+\end{thebibliography}
