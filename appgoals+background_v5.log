@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  28 JUL 2024 23:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  29 JUL 2024 08:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -423,28 +423,29 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 ) [4]
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) [5]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 1009) in paragraph at lines 190--191
+|   []   |   []   |   []   |   []   |   []   |   []   |   []
+ []
 
 No file appgoals+background_v5.bbl.
-[6] [7] (./appgoals+background_v5.aux) ) 
+[6] (./appgoals+background_v5.aux) ) 
 Here is how much of TeX's memory you used:
- 6563 strings out of 480247
- 103684 string characters out of 5896151
+ 6564 strings out of 480247
+ 103705 string characters out of 5896151
  425205 words of memory out of 5000000
- 24409 multiletter control sequences out of 15000+600000
+ 24410 multiletter control sequences out of 15000+600000
  486393 words of font info for 61 fonts, out of 8000000 for 9000
  17 hyphenation exceptions out of 8191
  70i,11n,77p,1723b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/en
-c/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhv
-b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on appgoals+background_v5.pdf (7 pages, 81760 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dv
+ips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on appgoals+background_v5.pdf (6 pages, 81491 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
