@@ -1,7 +1,7 @@
 \documentclass{NIHGrant}
 \author{Andrew Sugarman}
 \date{\today}
-\title{High-Resolution Wide-Field 3D Histopathology for the Morphological Characterization of Prostate Cancer}
+\title{High-Resolution, Wide-Field 3D Histopathology for the Morphological Characterization of Prostate Cancer}
 \newcommand{\Id}[2]{\text{Id}_{#1}(#2)} % Identification Region
 \let\inf\rest \DeclareMathOperator*{\inf}{Inf} % Infimum, note: * undersets limits
 \newcommand{\E}{\mathbb{E}} % Nice Infimum
@@ -56,12 +56,11 @@ We will collect the first micro-CT dataset of prostate cancer. Biopsies from dis
 assess and test the hypothesis that PBCT grading is non-inferior to standard slide-based imaging. Beyond this pilot study, these data will be made available publicly as a resource for the community.
 
 \paragraph*{Aim 3: Quantify the morphological heterogeneity in prostate glands using computational persistent homology.}
-
 Computational topology provides a rich suite of tools for quantifying 3D shapes in such a way that morphology can be included as covariates in statistical and machine learning-based cancer prognostics~\cite{primakov_automated_2022,crawford_predicting_2020}. In collaboration with Dr. Silverman, we will identify which topological summary statistics can best capture the morphologic differences between cancerous and healthy prostate glands. Using these statistics, we will then provide the first quantification of how glandular morphology varies spatially within a biopsy as a function of age and disease status. This quantification will provide novel biological insights into tumor heterogeneity and will inform the design of future studies of prostate cancer.  \\[5pt]
 %
 \noindent
 %%%% my retry
-Completing these Aims will provide three critical outcomes: (1) the first micro-CT imaging protocol for the high-resolution 3D imaging of whole tissue blocks, (2) a clinical evaluation of this technology in the context of prostate cancer grading, and (3) the first quantitative study of morphological variation in prostate cancer. Finally, this research will provide me with the skills and expertise to pursue my long-term career goal of leading an independent research program in Oncology.
+Completing these Aims will provide three critical outcomes: (1) the first micro-CT imaging protocol that extends sub-micrometer resolution to whole tissue blocks, (2) a clinical evaluation of this technology in the context of prostate cancer grading, and (3) the first quantitative study of morphological variation in prostate cancer. Finally, this research will provide me with the skills and expertise to pursue my long-term career goal of leading an independent research program in Oncology.
 
 \newpage
 \part*{Research Strategy}
@@ -85,11 +84,11 @@ decisions. It is hypothesized that such problems may be partially
 responsible for the large variability in grading between individuals~\cite{ozkan_interobserver_2016}.
 Outside of the imaging technologies themselves, the ubiquity of 3D images of
 cancer have led to numerous statistical and machine learning advances that may
-ultimate improve clinical care. For example, Crawford et al.~(2020)~\cite{crawford_predicting_2020} showed that
+ultimately improve clinical care. For example, Crawford et al.~(2020)~\cite{crawford_predicting_2020} showed that
 computational topology could be used identify the morphological biomarkers for
 MRI imaging of Glioblastoma that were more predictive of patient outcomes than
 traditional clinical metrics or molecular biomarkers. Tools such
-as those developed by Crawford et al.~\cite{crawford_predicting_2020,lawson_persistent_2019} cannot be applied at the
+as those developed by Crawford et al.~\cite{lawson_persistent_2019,crawford_predicting_2020} cannot be applied at the
 microscopic level due to the lack of 3D imaging data. In short,
 \emph{assessment of cancer morphology is limited at the microscopic level due
   to a lack of available imaging technologies}.
@@ -98,19 +97,19 @@ microscopic level due to the lack of 3D imaging data. In short,
 Several approaches to 3D microscopic imaging have recently been proposed.
 These include the hybrid Open-Top Light-Sheet microscopy (OTLS) illustrated in
 Glaser et al.~(2022)~\cite{glaser_hybrid_2022} and a number of related methods collectively called
-micro-CT~\cite{katsamenis_x-ray_2019,topperwien_contrast_2019,frost_3d_2023,cheng_whole-animal_2011,ding_computational_2019}. OTLS is a 3D imaging method that relies on tissue clearing and fluorescent staining of tissue samples. OTLS permits high-quality
+micro-CT~\cite{katsamenis_x-ray_2019,topperwien_contrast_2019,frost_3d_2023,song_analysis_2024,cheng_whole-animal_2011,ding_computational_2019}. OTLS is a 3D imaging method that relies on tissue clearing and fluorescent staining of tissue samples. OTLS permits high-quality
 volumetric imaging of whole biopsies without requiring repeated sectioning.
-Yet, OTLS requires complicated sample preparation procedures involving tissue clearing and staining with fluorescent markers. Micro-CT however can provide 3D imaging of biological samples at 0.5$\mu$m isotropic voxel resolution, doing so \uline{without the use of tissue clearing or the addition of any fluorescent markers}~\cite{pinkert-leetsch_three-dimensional_2023,yakovlev_wide-field_2022,ding_computational_2019,topperwien_correlative_2020}.
+Yet, OTLS requires complicated sample preparation procedures involving tissue clearing and staining with fluorescent markers. Micro-CT however can provide 3D imaging of biological samples at 0.5$\mu$m isotropic voxel resolution, doing so \uline{without the use of tissue clearing or the addition of any fluorescent markers}~\cite{pinkert-leetsch_three-dimensional_2023,yakovlev_wide-field_2022,ding_computational_2019,tajbakhsh_3d_2024,topperwien_correlative_2020}. Song et. al recently combined micro-CT with OTLS to investigate prostate cancer in their Tripath study, representing a significant advance in the field~\cite{song_analysis_2024}. However, the micro-CT data in this study was limited in resolution and field-of-view, and these reconstructed images were not provided as a publicly available resource.
 % Moreover two recent developments have greatly enhanced the
 % applicability of micro-CT by expanding the field-of-view and removing the
 % dependence on contrast-enhancing staining.
 % outtake: In contrast, micro-CT stands out as an
 % alternative to OTLS which can obtain substantially higher resolution~[CITE].
 
-While multiple groups have shown that micro-CT is capable of producing
+While additional groups have shown that micro-CT is capable of producing
 high-resolution cellular and sub-cellular imaging, these technologies have
 been limited by their narrow field-of-view. For example, while Pinkert-Leetsch et al.
-demonstrated they could resolve nuclei within pancreatic adenocarcinoma, their entire field of view was limited to 1.6 by 1.4mm~\cite{pinkert-leetsch_three-dimensional_2023}. This field-of-view is much smaller than most biopsy specimens, requiring the user to acquire many scans to cover just one sample. The Cheng Lab
+demonstrated they could resolve nuclei within pancreatic adenocarcinoma, their entire field-of-view was limited to 1.6 by 1.4mm~\cite{pinkert-leetsch_three-dimensional_2023}. This field-of-view is much smaller than most biopsy specimens, requiring the user to acquire many scans to cover just one sample. The Cheng Lab
 recently addressed this issue and demonstrated that a novel wide-field
 detector allowed for nearly centimeter scale (whole-biopsy) imaging at sub-micrometer (0.5$\mu$m) isotropic voxel
 resolution~\cite{yakovlev_wide-field_2022}.
@@ -190,7 +189,7 @@ parameters.
 The goal of this Aim is to provide to provide a publicly available multi-tissue
 imaging atlas which researchers can use evaluate whether their questions
 can be answered using PBCT and to determine imaging parameters (\(R\) and \(K\))
-that would best capture the tissue structures of interest. We have worked in close collaboration with Dr. Patrick La Riviere (see letter of reference) to devise and optimize our PBCT experiments and will continue to refer to his expertise. To create this atlas
+that would best capture the tissue structures of interest. We have worked in close collaboration with Dr. Patrick La Riviere (see letter of reference and biosketch) to devise and optimize our PBCT experiments and will continue to refer to his expertise. To create this atlas
 we will image two tumor biopsies and two healthy controls from four distinct
 tissue types including human prostate cancer, human oropharyngeal cancer, and mouse
 breast cancer (see letters of support from our collaborators Dr. Edward Gunther and Dr. Jiafen Hu who will
@@ -237,6 +236,7 @@ task~\cite{mohan_non-linear_2023}.
     the LBNL synchrotron at \(K=14keV\) and
     \(R=50mm\) without contrast-enhancing stain. The entire biopsy was
     imaged as illustrated in the 3D render, and the resolution showcased in panel C is available throughout the whole volume due to our isotropic 0.5$\mu$m voxel size.}\label{fig:match_histo}
+ \vspace{0.1cm}
 \end{wrapfigure}
 
 PBCT experiments will take place at the ALS of LBNL, which will undergo maintenance later next year (2024). Thus, we will also conduct imaging experiments at the Advanced Photon Source (APS) of Argonne National Laboratory, where Dr. Cheng maintains active collaborations (see sponsor and co-sponsor statement). The APS recently underwent an upgrade, and we estimate the resulting improvements will improve the throughput and resolution of our PBCT experiments.
@@ -258,12 +258,12 @@ prostate cancer.
 In collaboration with Dr. Warrick at PSU we will obtain whole-biopsy PBCT images of 20 age-matched benign and malignant prostate samples (see letter of reference). We will follow the same protocol used for generation of Figure 2B which already established that we can collect high-quality whole-biopsy images of similar biopsies provided by Dr. Warrick. For comparison, after imaging, each sample will be sliced and prepared for slide-based imaging using standard laboratory protocols. To make this data available as a public resource, both the slide-based images as well as the raw and 3D rendered PBCT images will be hosted online using the same web-server developed in Aim 1.
 
 \subsubsection*{Evaluate the hypothesis that 3D imaging can be used for scoring prostate cancer.}
-In collaboration with Dr. Warrick (see letter of reference), the Chief of Anatomic Pathology at Penn State College of Medicine (PSCOM), we will recruit up to 10 clinical pathologists (Fellows and Attendings) within and external to PSCOM to score 3D and 2D images of prostate biopsies. Each pathologist will be asked to provide Gleason scores for each of the prostate biopsies. For each biopsy a pathologist will be shown at random either the 3D CT rendering first or the 2D slide-based image. After providing an initial score, they will then be shown the other imaging type and asked if they need to update their score based on the additional information provided by the second imaging modality. To avoid potential biases, we will randomize the order of samples for each pathologist and for each biopsy randomize whether pathologists are shown the 2D or 3D images first. Ultimately this will result in a two-by-two contingency table \(Y\) tabulating the number of individuals shown the 2D or 3D images first and whether or not they found the second imaging modality added information compared to the first.
+In collaboration with Dr. Warrick (see letter of reference and biosketch), the Chief of Anatomic Pathology at Penn State College of Medicine (PSCOM), we will recruit up to 10 clinical pathologists (Fellows and Attendings) within and external to PSCOM to score 3D and 2D images of prostate biopsies. Each pathologist will be asked to provide Gleason scores for each of the prostate biopsies. For each biopsy a pathologist will be shown at random either the 3D CT rendering first or the 2D slide-based image. After providing an initial score, they will then be shown the other imaging type and asked if they need to update their score based on the additional information provided by the second imaging modality. To avoid potential biases, we will randomize the order of samples for each pathologist and for each biopsy randomize whether pathologists are shown the 2D or 3D images first. Ultimately this will result in a two-by-two contingency table \(Y\) tabulating the number of individuals shown the 2D or 3D images first and whether or not they found the second imaging modality added information compared to the first.
 
 We will test our hypothesis using standard tools from categorical data analysis. We will use a binomial test to evaluate the null hypothesis that the proportion of times where 3D imaging added information to 2D imaging (\(p_{1}\)) is greater than the proportion of times where 2D imaging added information to 3D imaging (\(p_{0}\)). To account for repeated measures we will formulate this test using binomial mixed effects models. To account for familiarity bias we will formulate this as a non-inferiority test with null hypothesis \(H_{0}:\log p_{1}/p_{0},\leq \delta\) where we will choose  \(\delta>0\) rather than \(\delta=0\) to provide a non-inferiority margin. We will chose \(\delta\) based on the results of a small pilot which will have a similar design to this one but 2D maximal intensity projections (MIPs) from 3D images will be shown rather than full 3D renderings. As in Figure 1, we will show the same region of biopsies using each imaging modality to ensure that the information content between the two imaging types is the same. Participants will be blinded to this fact and therefore we expect that we can estimate \(\delta=\log p_{1}/p_{0}\) using this pilot study. Note, our sample size is designed to achieve \(>85\%\) power under an alternative \(\log p_{1}/p_{0}\geq 0.2\) with a non-inferiority margin \(\delta\leq-0.2\).
 
-\begin{wrapfigure}[24]{r}{0.5\textwidth}
-  \vspace{-0.2cm} \includegraphics[width=0.49\textwidth]{ ./figures/ggrade1.png }
+\begin{wrapfigure}[22]{r}{0.45\textwidth}
+  \vspace{-0.2cm} \includegraphics[width=0.44\textwidth]{ ./figures/ggrade1.png }
   \caption{Diagram of different patterns in glandular morphology and the associated Gleason grade. This figure was taken from a review by Rebello et. al~\cite{rebello_prostate_2021}.}\label{fig:setup}
 \end{wrapfigure}
 

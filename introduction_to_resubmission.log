@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  28 JUL 2024 23:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  1 AUG 2024 13:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -387,7 +387,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
 Here is how much of TeX's memory you used:
  6237 strings out of 480247
  98434 string characters out of 5896151
- 401139 words of memory out of 5000000
+ 400139 words of memory out of 5000000
  24120 multiletter control sequences out of 15000+600000
  475550 words of font info for 37 fonts, out of 8000000 for 9000
  17 hyphenation exceptions out of 8191
@@ -396,7 +396,7 @@ Here is how much of TeX's memory you used:
 dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on introduction_to_resubmission.pdf (1 page, 29485 bytes).
+Output written on introduction_to_resubmission.pdf (1 page, 29391 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream

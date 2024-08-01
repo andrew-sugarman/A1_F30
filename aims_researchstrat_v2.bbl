@@ -165,6 +165,15 @@ Adam~K. Glaser, Kevin~W. Bishop, Lindsey~A. Barner, Etsuo~A. Susaki, Shimpei~I.
 \newblock {\em Nature Methods}, 19(5):613--619, May 2022.
 \newblock Number: 5 Publisher: Nature Publishing Group.
 
+\bibitem{song_analysis_2024}
+Andrew~H. Song, Mane Williams, Drew F.~K. Williamson, Sarah S.~L. Chow,
+  Guillaume Jaume, Gan Gao, Andrew Zhang, Bowen Chen, Alexander~S. Baras,
+  Robert Serafin, Richard Colling, Michelle~R. Downes, Xavier Farré, Peter
+  Humphrey, Clare Verrill, Lawrence~D. True, Anil~V. Parwani, Jonathan T.~C.
+  Liu, and Faisal Mahmood.
+\newblock Analysis of {3D} pathology samples using weakly supervised {AI}.
+\newblock {\em Cell}, 187(10):2502--2520.e17, May 2024.
+
 \bibitem{cheng_whole-animal_2011}
 Keith~C. Cheng, Xuying Xin, Darin~P. Clark, and Patrick La~Riviere.
 \newblock Whole-animal imaging, gene function, and the {Zebrafish} {Phenome}
@@ -181,6 +190,15 @@ Yifu Ding, Daniel~J Vanselow, Maksim~A Yakovlev, Spencer~R Katz, Alex~Y Lin,
   {X}-ray histotomography.
 \newblock {\em eLife}, 8:e44898, May 2019.
 \newblock Publisher: eLife Sciences Publications, Ltd.
+
+\bibitem{tajbakhsh_3d_2024}
+Kiarash Tajbakhsh, Olga Stanowska, Antonia Neels, Aurel Perren, and Robert
+  Zboray.
+\newblock {3D} {Virtual} {Histopathology} by {Phase}-{Contrast} {X}-{Ray}
+  {Micro}-{CT} for {Follicular} {Thyroid} {Neoplasms}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 43(7):2670--2678, July
+  2024.
+\newblock Conference Name: IEEE Transactions on Medical Imaging.
 
 \bibitem{topperwien_correlative_2020}
 Mareike Töpperwien, Franziska van~der Meer, Christine Stadelmann, and Tim

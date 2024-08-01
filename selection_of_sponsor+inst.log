@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  31 JUL 2024 23:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  1 AUG 2024 11:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -297,7 +297,7 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box60
 )
-No file selection_of_sponsor+inst.aux.
+(./selection_of_sponsor+inst.aux)
 \openout1 = `selection_of_sponsor+inst.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -314,6 +314,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count291
@@ -380,16 +381,16 @@ No file selection_of_sponsor+inst.bbl.
 (./selection_of_sponsor+inst.aux) ) 
 Here is how much of TeX's memory you used:
  6235 strings out of 480247
- 98380 string characters out of 5896151
- 413142 words of memory out of 5000000
- 24121 multiletter control sequences out of 15000+600000
- 475297 words of font info for 37 fonts, out of 8000000 for 9000
+ 98417 string characters out of 5896151
+ 419133 words of memory out of 5000000
+ 24120 multiletter control sequences out of 15000+600000
+ 473664 words of font info for 35 fonts, out of 8000000 for 9000
  17 hyphenation exceptions out of 8191
- 70i,5n,77p,1370b,126s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,5n,77p,1352b,126s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvi
 ps/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on selection_of_sponsor+inst.pdf (1 page, 26719 bytes).
+Output written on selection_of_sponsor+inst.pdf (1 page, 23211 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream

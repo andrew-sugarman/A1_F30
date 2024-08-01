@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: aims_researchstrat_v2.aux
 The style file: unsrt.bst
 Database file #1: sugarman_f30.bib
-You've used 36 entries,
+You've used 38 entries,
             1791 wiz_defined-function locations,
-            666 strings with 16735 characters,
-and the built_in function-call counts, 11697 in all, are:
-= -- 770
-> -- 1124
+            679 strings with 17551 characters,
+and the built_in function-call counts, 12522 in all, are:
+= -- 828
+> -- 1200
 < -- 1
-+ -- 388
-- -- 352
-* -- 1207
-:= -- 2118
-add.period$ -- 123
-call.type$ -- 36
-change.case$ -- 36
++ -- 414
+- -- 376
+* -- 1299
+:= -- 2262
+add.period$ -- 130
+call.type$ -- 38
+change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 329
-empty$ -- 796
-format.name$ -- 352
-if$ -- 2315
+cite$ -- 38
+duplicate$ -- 347
+empty$ -- 852
+format.name$ -- 376
+if$ -- 2477
 int.to.chr$ -- 0
-int.to.str$ -- 36
-missing$ -- 35
-newline$ -- 198
-num.names$ -- 36
-pop$ -- 40
+int.to.str$ -- 38
+missing$ -- 37
+newline$ -- 209
+num.names$ -- 38
+pop$ -- 41
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 127
+skip$ -- 133
 stack$ -- 0
-substring$ -- 640
-swap$ -- 49
+substring$ -- 714
+swap$ -- 51
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 87
-width$ -- 38
-write$ -- 426
+while$ -- 93
+width$ -- 40
+write$ -- 450
